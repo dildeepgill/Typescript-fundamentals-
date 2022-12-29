@@ -2,6 +2,6 @@ let sales: number = 123456789
 let course:string = "typescript"
 let is_published:boolean = true
 
-function render(doucment){
-    console.log(document)
-}
+let user:[number, string] = [1,"mosh"]
+
+const enum size {small=1, medium=2, lard=3}
